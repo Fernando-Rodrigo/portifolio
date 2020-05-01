@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Average+Sans&display=swap');
+
+*{
+    font-family: 'Average Sans', sans-serif;
+}
+
 header{
     font-size: 18pt;
     text-align: center;
@@ -9,4 +15,13 @@ section#h2{
 
 section#h3{
     font-size: 14pt;
+}
+
+p{
+    text-align: justify;
+    font-size: 12pt;
+}
+
+footer{
+    text-align: center;
 }
