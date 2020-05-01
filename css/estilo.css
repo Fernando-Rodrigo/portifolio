@@ -1,4 +1,12 @@
 header{
-    font-size: 16pt;
+    font-size: 18pt;
     text-align: center;
+}
+
+section#h2{
+    font-size: 16pt;
+}
+
+section#h3{
+    font-size: 14pt;
 }
