@@ -23,6 +23,12 @@ p{
     font-size: 12pt;
 }
 
+p#rodape{
+    text-align: center;
+    display: block;
+    margin-top: 75px;
+}
+
 footer{
     text-align: center;
 }
