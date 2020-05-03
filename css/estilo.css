@@ -1,42 +1,60 @@
 @import url('https://fonts.googleapis.com/css2?family=Average+Sans&display=swap');
 
-*{
+* {
     font-family: 'Average Sans', sans-serif;
 }
 
-header{
+body {
+    background: url("../images/bg.jpg");
+}
+
+header {
     font-size: 18pt;
     text-align: center;
 }
 
-nav#idioma{
+nav#idioma {
     display: block;
     position: absolute;
     left: 1342px;
     top: 0px;
 }
 
-section#h2{
+section#h2 {
     font-size: 16pt;
 }
 
-section#h3{
+section#h3 {
     font-size: 14pt;
 }
 
-p{
+p {
     text-align: justify;
     text-indent: 50px;
     font-size: 12pt;
 }
 
-p#rodape{
+p#rodape {
     display: block;
     position: absolute;
     bottom: 0px;
     left: 600px;
 }
 
-footer{
+p#creditos {
+    display: block;
+    position: absolute;
+    bottom: 40px;
+    left: 600px;
+}
+
+img#github {
+    display: block;
+    position: absolute;
+    bottom: -7px;
+    left: 180px;
+}
+
+footer {
     text-align: center;
 }
