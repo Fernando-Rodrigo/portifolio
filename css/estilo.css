@@ -13,18 +13,18 @@ header {
     text-align: center;
 }
 
-nav#idioma {
+div#interface {
+    width: 1320px;
+}
+
+div#dividioma {
     display: block;
     position: absolute;
-    left: 1342px;
+    left: 1320px;
     top: 0px;
 }
 
-section#h2 {
-    font-size: 16pt;
-}
-
-section#h3 {
+#h3 {
     font-size: 14pt;
 }
 
@@ -34,27 +34,15 @@ p {
     font-size: 12pt;
 }
 
-p#rodape {
-    display: block;
-    position: absolute;
-    bottom: 0px;
-    left: 600px;
-}
-
-p#creditos {
-    display: block;
-    position: absolute;
-    bottom: 40px;
-    left: 600px;
-}
-
 img#github {
     display: block;
     position: absolute;
-    bottom: -7px;
+    bottom: 45px;
     left: 180px;
 }
 
 footer {
-    text-align: center;
+    display: block;
+    position: absolute;
+    left: 600px;
 }
