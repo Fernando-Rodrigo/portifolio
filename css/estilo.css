@@ -24,14 +24,21 @@ div#dividioma {
     top: 5px;
 }
 
-#h3 {
+h3 {
     font-size: 14pt;
+    margin-left: 25px;
+}
+
+ul{
+    margin-left: 50px;
+    list-style: square;
 }
 
 p {
     text-align: justify;
     text-indent: 50px;
     font-size: 12pt;
+    padding: 5px;
 }
 
 img#github {
