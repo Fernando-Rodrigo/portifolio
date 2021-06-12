@@ -59,11 +59,18 @@ p {
     padding: 5px;
 }
 
-img#github {
+.redes{
     display: block;
-    position: absolute;
-    bottom: 60px;
-    left: 186px;
+    left: 480px;
+    position: relative;
+}
+
+.ai-lattes,.fa-linkedin{
+    color:rgb(10, 10, 191);
+}
+
+i#icone{
+    font-size: 24px;
 }
 
 footer {
